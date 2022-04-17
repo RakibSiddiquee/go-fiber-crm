@@ -9,7 +9,7 @@
 2. go run main.go
 
 ### Test it with postman using following routes
-Get all items: localhost:3000/api/v1/leads
-Add single item: localhost:3000/api/v1/lead
-Get single item: localhost:3000/api/v1/lead/:id
-Delete single item: localhost:3000/api/v1/lead/:id
+Get all items: localhost:3000/api/v1/leads  
+Add single item: localhost:3000/api/v1/lead  
+Get single item: localhost:3000/api/v1/lead/:id  
+Delete single item: localhost:3000/api/v1/lead/:id  

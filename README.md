@@ -1,11 +1,11 @@
-## Go Fiber CRM
-# This project is a CRM project.
-# Golang, fiber framework, gorm package and sqlite are used in this project.
+# Go Fiber CRM
+## This project is a CRM project.
+## Golang, fiber framework, gorm package and sqlite are used in this project.
 
 1. Fiber: https://docs.gofiber.io/
 2. GORM & sqlite: https://gorm.io/docs/
 
-# Run the following commands:
+## Run the following commands:
 1. go build main.go
 2. go run main.go
 

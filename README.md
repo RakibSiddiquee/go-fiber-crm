@@ -1,5 +1,5 @@
 # Go Fiber CRM
-## Golang, fiber framework, gorm package and sqlite are used in this project.
+## Golang, Fiber framework, GORM package and SQLite are used in this project.
 
 1. Fiber: https://docs.gofiber.io/
 2. GORM & sqlite: https://gorm.io/docs/
